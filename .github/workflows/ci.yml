@@ -44,6 +44,7 @@ jobs:
 
       - name: Run ESLint
         run: npm run lint
+        working-directory: ./frontend
 
       - name: Build frontend
         run: npm run build
