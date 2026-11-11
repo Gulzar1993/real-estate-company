@@ -133,4 +133,3 @@ in the deployment manifests to point at your registry.
 - The app has no database and no auth layer by design, so students can focus on the
   CI/CD/container/Kubernetes mechanics without extra infrastructure to stand up first.
 # real-estate-company
-# real-estate-company
